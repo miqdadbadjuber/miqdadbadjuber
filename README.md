@@ -4,7 +4,6 @@ I'm Miqdad Badjuber, an AI and Machine Learning engineer based in Indonesia. My 
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=miqdadbadjuber&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=miqdadbadjuber&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=miqdadbadjuber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Tech Stack:
