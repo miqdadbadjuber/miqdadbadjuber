@@ -1,3 +1,3 @@
-## About Me:
-I'm Miqdad Badjuber, an AI and Machine Learning engineer based in Indonesia. My main project right now is `antislop`, a rules and filter system for AI coding agents, distributed as a Claude Code plugin and CLI skill. I also maintain several SaaS and automation projects on GitHub.
+I'm an AI & Machine Learning Engineer based in Indonesia. My primary focus currently centers on training machine learning models and developing specialized agentic coding skills.
 
+Alongside model training, I actively experiment with full-stack web applications and AI agent CLI tools, built both independently and for practical technical project submissions.
